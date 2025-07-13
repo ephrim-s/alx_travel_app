@@ -1,0 +1,13 @@
+alx_travel_app/
+├── alx_travel_app/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+├── listings/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── views.py
+│   ├── urls.py  (create manually)
+├── manage.py
+├── requirements.txt
+└── .env
